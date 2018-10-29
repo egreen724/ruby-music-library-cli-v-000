@@ -1,4 +1,4 @@
-a.daterequire 'pry'
+require 'pry'
 
 class MusicLibraryController
   
